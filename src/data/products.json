@@ -11,7 +11,7 @@
       "finishing": "Laminating glossy/doff, UV coating"
     },
     "priceRange": "Rp 150.000 - Rp 500.000",
-    "images": ["src\\assets\\products\\buku-pajak.jpg"]
+    "images": ["/src/assets/products/buku-pajak.jpg"]
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
       "finishing": "Laminating, cutting"
     },
     "priceRange": "Rp 10.000 - Rp 200.000",
-    "images": ["src\\assets\\products\\digital.jpg"]
+    "images": ["/src/assets/products/digital.jpg"]
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
       "lembar": "12 lembar + cover"
     },
     "priceRange": "Rp 25.000 - Rp 75.000",
-    "images": ["src\\assets\\products\\calendar.jpg"]
+    "images": ["/src/assets/products/calendar.jpg"]
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
       "finishing": "Laminating glossy/doff"
     },
     "priceRange": "Rp 2.000 - Rp 8.000",
-    "images": ["src\\assets\\products\\brosur-lipat.png"]
+    "images": ["/src/assets/products/brosur-lipat.png"]
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
       "halaman": "200-400 halaman"
     },
     "priceRange": "Rp 35.000 - Rp 85.000",
-    "images": ["src\\assets\\products\\buku-agenda.jpg"]
+    "images": ["/src/assets/products/buku-agenda.jpg"]
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
       "finishing": "Standard atau laminating"
     },
     "priceRange": "Rp 800 - Rp 3.000",
-    "images": ["src\\assets\\products\\fly.jpg"]
+    "images": ["/src/assets/products/fly.jpg"]
   },
   {
     "id": 7,
@@ -95,7 +95,7 @@
       "lembar": "12 lembar + base"
     },
     "priceRange": "Rp 15.000 - Rp 45.000",
-    "images": ["src\\assets\\products\\kalender-meja.jpg"]
+    "images": ["/src/assets/products/kalender-meja.jpg"]
   },
   {
     "id": 8,
@@ -109,7 +109,7 @@
       "halaman": "80-200 halaman"
     },
     "priceRange": "Rp 12.000 - Rp 35.000",
-    "images": ["src\\assets\\products\\notebook-cover.jpg"]
+    "images": ["/src/assets/products/notebook-cover.jpg"]
   },
   {
     "id": 9,
@@ -123,7 +123,7 @@
       "halaman": "20-100 halaman"
     },
     "priceRange": "Rp 75.000 - Rp 250.000",
-    "images": ["src\\assets\\products\\compro.png"]
+    "images": ["/src/assets/products/compro.png"]
   },
   {
     "id": 10,
@@ -137,7 +137,7 @@
       "halaman": "20-80 halaman"
     },
     "priceRange": "Rp 30.000 - Rp 120.000",
-    "images": ["src\\assets\\products\\catalog-product.jpg"]
+    "images": ["/src/assets/products/catalog-product.jpg"]
   },
   {
     "id": 11,
@@ -151,7 +151,7 @@
       "finishing": "Laminating optional"
     },
     "priceRange": "Rp 2.000 - Rp 15.000",
-    "images": ["src\\assets\\products\\sticker.jpg"]
+    "images": ["/src/assets/products/sticker.jpg"]
   },
   {
     "id": 12,
@@ -165,6 +165,6 @@
       "finishing": "Laminating, emboss, spot UV"
     },
     "priceRange": "Rp 3.000 - Rp 25.000",
-    "images": ["src\\assets\\products\\gift-box.jpg"]
+    "images": ["/src/assets/products/gift-box.jpg"]
   }
 ]
