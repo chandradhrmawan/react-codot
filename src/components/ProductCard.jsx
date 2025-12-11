@@ -3,8 +3,6 @@ import { Link } from 'react-router-dom'
 const ProductCard = ({ product }) => {
   const { name, category, description, priceRange, images } = product
 
-  console.log('ProductCard render:', product)
-
   const categoryLabels = {
     offset: 'Offset Printing',
     digital: 'Digital Printing',
