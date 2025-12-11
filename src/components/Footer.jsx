@@ -61,7 +61,7 @@ const Footer = () => {
                 </svg>
               </a>
               <a
-                href="https://wa.me/628567827236"
+                href="https://wa.me/+628567827236"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center w-10 h-10 transition-colors rounded-full bg-navy-800 hover:bg-primary-600"

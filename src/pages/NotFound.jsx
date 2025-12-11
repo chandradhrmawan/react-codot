@@ -110,7 +110,7 @@ const NotFound = () => {
           <div className="pt-6 mt-6 border-t border-gray-200">
             <p className="mb-3 text-sm text-gray-500">Butuh bantuan segera?</p>
             <a 
-              href="https://wa.me/628567827236" 
+              href="https://wa.me/+628567827236" 
               target="_blank" 
               rel="noopener noreferrer"
               className="inline-flex items-center font-semibold text-green-600 hover:text-green-700"

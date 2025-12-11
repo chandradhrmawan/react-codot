@@ -187,7 +187,7 @@ const FAQ = () => {
                 Hubungi Kami
               </a>
               <a
-                href="https://wa.me/628567827236"
+                href="https://wa.me/+628567827236"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-outline"

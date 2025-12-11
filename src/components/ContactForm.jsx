@@ -188,7 +188,7 @@ const ContactForm = () => {
       <p className="mt-4 text-sm text-center text-gray-500">
         Atau hubungi kami langsung melalui{' '}
         <a
-          href="https://wa.me/628567827236"
+          href="https://wa.me/+628567827236"
           target="_blank"
           rel="noopener noreferrer"
           className="text-primary-600 hover:underline"
