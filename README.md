@@ -291,7 +291,7 @@ npm run lint
 
 Untuk pertanyaan atau bantuan:
 - Email: info@percetakancodot.com
-- WhatsApp: +62 812-3456-7890
+- WhatsApp: +628567827236
 
 ## 📄 License
 

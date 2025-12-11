@@ -157,7 +157,7 @@ Add to `index.html` before closing `</body>`:
   "description": "Percetakan profesional untuk offset printing, digital printing, kalender, brosur, dan buku agenda",
   "@id": "https://darmaciptamedia.com",
   "url": "https://darmaciptamedia.com",
-  "telephone": "+62-812-3456-7890",
+  "telephone": "+628567827236",
   "email": "info@darmaciptamedia.com",
   "address": {
     "@type": "PostalAddress",

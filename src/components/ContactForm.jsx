@@ -78,8 +78,8 @@ const ContactForm = () => {
   }
 
   return (
-    <form onSubmit={handleSubmit} className="card p-8 max-w-2xl mx-auto">
-      <h2 className="text-2xl font-heading font-bold text-navy-900 mb-6">
+    <form onSubmit={handleSubmit} className="max-w-2xl p-8 mx-auto card">
+      <h2 className="mb-6 text-2xl font-bold font-heading text-navy-900">
         Kirim Pesan
       </h2>
 
@@ -95,9 +95,9 @@ const ContactForm = () => {
         </div>
       )}
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+      <div className="grid grid-cols-1 gap-6 mb-6 md:grid-cols-2">
         <div>
-          <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">
+          <label htmlFor="name" className="block mb-2 text-sm font-medium text-gray-700">
             Nama Lengkap <span className="text-red-500">*</span>
           </label>
           <input
@@ -107,13 +107,13 @@ const ContactForm = () => {
             value={formData.name}
             onChange={handleChange}
             required
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition"
+            className="w-full px-4 py-3 transition border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
             placeholder="Nama Anda"
           />
         </div>
 
         <div>
-          <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
+          <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-700">
             Email <span className="text-red-500">*</span>
           </label>
           <input
@@ -123,15 +123,15 @@ const ContactForm = () => {
             value={formData.email}
             onChange={handleChange}
             required
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition"
+            className="w-full px-4 py-3 transition border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
             placeholder="email@example.com"
           />
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+      <div className="grid grid-cols-1 gap-6 mb-6 md:grid-cols-2">
         <div>
-          <label htmlFor="phone" className="block text-sm font-medium text-gray-700 mb-2">
+          <label htmlFor="phone" className="block mb-2 text-sm font-medium text-gray-700">
             No. Telepon
           </label>
           <input
@@ -140,13 +140,13 @@ const ContactForm = () => {
             name="phone"
             value={formData.phone}
             onChange={handleChange}
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition"
-            placeholder="+62 812-3456-7890"
+            className="w-full px-4 py-3 transition border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+            placeholder="+628567827236"
           />
         </div>
 
         <div>
-          <label htmlFor="subject" className="block text-sm font-medium text-gray-700 mb-2">
+          <label htmlFor="subject" className="block mb-2 text-sm font-medium text-gray-700">
             Subjek
           </label>
           <input
@@ -155,14 +155,14 @@ const ContactForm = () => {
             name="subject"
             value={formData.subject}
             onChange={handleChange}
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition"
+            className="w-full px-4 py-3 transition border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
             placeholder="Subjek pesan"
           />
         </div>
       </div>
 
       <div className="mb-6">
-        <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
+        <label htmlFor="message" className="block mb-2 text-sm font-medium text-gray-700">
           Pesan <span className="text-red-500">*</span>
         </label>
         <textarea
@@ -172,7 +172,7 @@ const ContactForm = () => {
           onChange={handleChange}
           required
           rows={6}
-          className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition resize-none"
+          className="w-full px-4 py-3 transition border border-gray-300 rounded-lg resize-none focus:ring-2 focus:ring-primary-500 focus:border-transparent"
           placeholder="Tulis pesan Anda di sini..."
         />
       </div>
@@ -180,15 +180,15 @@ const ContactForm = () => {
       <button
         type="submit"
         disabled={isSubmitting}
-        className="btn-primary w-full disabled:opacity-50 disabled:cursor-not-allowed"
+        className="w-full btn-primary disabled:opacity-50 disabled:cursor-not-allowed"
       >
         {isSubmitting ? 'Mengirim...' : 'Kirim Pesan'}
       </button>
 
-      <p className="text-sm text-gray-500 mt-4 text-center">
+      <p className="mt-4 text-sm text-center text-gray-500">
         Atau hubungi kami langsung melalui{' '}
         <a
-          href="https://wa.me/6281234567890"
+          href="https://wa.me/628567827236"
           target="_blank"
           rel="noopener noreferrer"
           className="text-primary-600 hover:underline"

@@ -204,7 +204,7 @@ const Kontak = () => {
             </h3>
             <div className="flex flex-col justify-center gap-4 sm:flex-row">
               <a
-                href="https://wa.me/6281234567890"
+                href="https://wa.me/628567827236"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-4 font-semibold text-white transition-colors bg-green-500 rounded-lg shadow-lg hover:bg-green-600"
@@ -219,7 +219,7 @@ const Kontak = () => {
                 Chat via WhatsApp
               </a>
               <a
-                href="tel:+6281234567890"
+                href="tel:+628567827236"
                 className="inline-flex items-center justify-center px-8 py-4 font-semibold transition-colors bg-white rounded-lg shadow-lg text-primary-600 hover:bg-gray-100"
               >
                 <svg
