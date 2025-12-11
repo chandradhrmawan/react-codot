@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Cetak Offset Premium",
+    "category": "offset",
+    "description": "Layanan cetak offset berkualitas tinggi untuk volume besar. Cocok untuk buku, majalah, katalog, dan company profile. Hasil cetak konsisten dengan warna akurat.",
+    "specs": {
+      "minOrder": "500 eksemplar",
+      "material": "Art Paper, HVS, Ivory",
+      "gramatur": "80gsm - 400gsm",
+      "finishing": "Laminating glossy/doff, UV coating"
+    },
+    "priceRange": "Rp 150.000 - Rp 500.000",
+    "images": ["src\\assets\\products\\buku-pajak.jpg"]
+  },
+  {
+    "id": 2,
+    "name": "Digital Printing Express",
+    "category": "digital",
+    "description": "Solusi cetak cepat untuk kebutuhan mendesak. Minimal order rendah, cocok untuk poster, flyer, x-banner, dan stiker. Proses cepat 1-3 hari.",
+    "specs": {
+      "minOrder": "1 eksemplar",
+      "material": "Art Paper, Vinyl, Albatros",
+      "ukuran": "A4, A3, Custom",
+      "finishing": "Laminating, cutting"
+    },
+    "priceRange": "Rp 10.000 - Rp 200.000",
+    "images": ["src\\assets\\products\\digital.jpg"]
+  },
+  {
+    "id": 3,
+    "name": "Kalender Dinding Custom",
+    "category": "kalender",
+    "description": "Kalender tahunan dengan desain custom logo perusahaan. Tersedia berbagai ukuran dan model. Ideal untuk souvenir akhir tahun atau promosi.",
+    "specs": {
+      "minOrder": "100 eksemplar",
+      "material": "Art Carton 260gsm + Art Paper 150gsm",
+      "ukuran": "A3, A4, Custom",
+      "lembar": "12 lembar + cover"
+    },
+    "priceRange": "Rp 25.000 - Rp 75.000",
+    "images": ["src\\assets\\products\\calendar.jpg"]
+  },
+  {
+    "id": 4,
+    "name": "Brosur Lipat Premium",
+    "category": "brosur",
+    "description": "Brosur lipat 2 atau lipat 3 dengan finishing glossy. Material berkualitas dengan hasil cetak tajam. Efektif untuk marketing dan promosi produk.",
+    "specs": {
+      "minOrder": "100 eksemplar",
+      "material": "Art Paper 150gsm - 260gsm",
+      "ukuran": "A4, A5, Custom",
+      "finishing": "Laminating glossy/doff"
+    },
+    "priceRange": "Rp 2.000 - Rp 8.000",
+    "images": ["src\\assets\\products\\brosur-lipat.png"]
+  },
+  {
+    "id": 5,
+    "name": "Buku Agenda Hardcover",
+    "category": "agenda",
+    "description": "Buku agenda premium dengan cover keras dan custom logo. Include kalender tahunan dan halaman notes. Cocok untuk souvenir corporate atau merchandise.",
+    "specs": {
+      "minOrder": "50 eksemplar",
+      "material": "Hard Cover + HVS 70gsm",
+      "ukuran": "A5, B5",
+      "halaman": "200-400 halaman"
+    },
+    "priceRange": "Rp 35.000 - Rp 85.000",
+    "images": ["src\\assets\\products\\buku-agenda.jpg"]
+  },
+  {
+    "id": 6,
+    "name": "Flyer Single Page",
+    "category": "brosur",
+    "description": "Flyer 1 muka atau 2 muka untuk promosi event, grand opening, atau iklan produk. Cetak cepat dengan hasil berkualitas.",
+    "specs": {
+      "minOrder": "100 eksemplar",
+      "material": "Art Paper 120gsm - 150gsm",
+      "ukuran": "A5, A6, Custom",
+      "finishing": "Standard atau laminating"
+    },
+    "priceRange": "Rp 800 - Rp 3.000",
+    "images": ["src\\assets\\products\\fly.jpg"]
+  },
+  {
+    "id": 7,
+    "name": "Kalender Meja Eksklusif",
+    "category": "kalender",
+    "description": "Kalender meja duduk dengan desain elegan. Standing base kokoh dengan material premium. Sempurna untuk meja kantor atau hadiah klien.",
+    "specs": {
+      "minOrder": "50 eksemplar",
+      "material": "Art Carton 310gsm",
+      "ukuran": "10x15cm, 15x20cm",
+      "lembar": "12 lembar + base"
+    },
+    "priceRange": "Rp 15.000 - Rp 45.000",
+    "images": ["src\\assets\\products\\kalender-meja.jpg"]
+  },
+  {
+    "id": 8,
+    "name": "Notebook Softcover Custom",
+    "category": "agenda",
+    "description": "Notebook dengan cover laminasi dan custom desain. Isi polos atau bergaris. Cocok untuk seminar kit atau merchandise brand.",
+    "specs": {
+      "minOrder": "50 eksemplar",
+      "material": "Art Carton 260gsm + HVS 70gsm",
+      "ukuran": "A5, B5",
+      "halaman": "80-200 halaman"
+    },
+    "priceRange": "Rp 12.000 - Rp 35.000",
+    "images": ["src\\assets\\products\\notebook-cover.jpg"]
+  },
+  {
+    "id": 9,
+    "name": "Company Profile Book",
+    "category": "lainnya",
+    "description": "Buku company profile dengan layout profesional dan finishing premium. Cetak full color dengan binding perfect atau hardcover.",
+    "specs": {
+      "minOrder": "20 eksemplar",
+      "material": "Art Paper 150gsm (isi) + Art Carton 310gsm (cover)",
+      "ukuran": "A4, Custom",
+      "halaman": "20-100 halaman"
+    },
+    "priceRange": "Rp 75.000 - Rp 250.000",
+    "images": ["src\\assets\\products\\compro.png"]
+  },
+  {
+    "id": 10,
+    "name": "Katalog Produk Premium",
+    "category": "lainnya",
+    "description": "Katalog produk dengan cetak full color dan layout menarik. Binding spiral atau perfect. Ideal untuk showroom atau pameran.",
+    "specs": {
+      "minOrder": "50 eksemplar",
+      "material": "Art Paper 120gsm - 150gsm",
+      "ukuran": "A4, A5",
+      "halaman": "20-80 halaman"
+    },
+    "priceRange": "Rp 30.000 - Rp 120.000",
+    "images": ["src\\assets\\products\\catalog-product.jpg"]
+  },
+  {
+    "id": 11,
+    "name": "Stiker Custom Die Cut",
+    "category": "digital",
+    "description": "Stiker vinyl dengan cutting sesuai bentuk desain. Waterproof dan tahan lama. Cocok untuk branding, labeling, atau merchandise.",
+    "specs": {
+      "minOrder": "100 pcs",
+      "material": "Vinyl glossy/doff, Chromo",
+      "ukuran": "Custom sesuai desain",
+      "finishing": "Laminating optional"
+    },
+    "priceRange": "Rp 2.000 - Rp 15.000",
+    "images": ["src\\assets\\products\\sticker.jpg"]
+  },
+  {
+    "id": 12,
+    "name": "Packaging Box Custom",
+    "category": "lainnya",
+    "description": "Box kemasan custom dengan offset atau digital printing. Berbagai ukuran dan model sesuai kebutuhan produk Anda.",
+    "specs": {
+      "minOrder": "100 pcs",
+      "material": "Duplex, Ivory, Corrugated",
+      "ukuran": "Custom",
+      "finishing": "Laminating, emboss, spot UV"
+    },
+    "priceRange": "Rp 3.000 - Rp 25.000",
+    "images": ["src\\assets\\products\\gift-box.jpg"]
+  }
+]

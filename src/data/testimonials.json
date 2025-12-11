@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Budi Santoso",
+    "company": "PT Maju Jaya",
+    "rating": 5,
+    "quote": "Kualitas cetak sangat memuaskan dan pelayanan sangat responsif. Sangat direkomendasikan!"
+  },
+  {
+    "name": "Siti Nurhaliza",
+    "company": "CV Berkah Abadi",
+    "rating": 5,
+    "quote": "Sudah beberapa kali order kalender dan brosur di sini. Hasilnya selalu bagus dan pengiriman tepat waktu."
+  },
+  {
+    "name": "Ahmad Rizky",
+    "company": "Toko Buku Cerdas",
+    "rating": 5,
+    "quote": "Harga kompetitif dengan kualitas yang tidak mengecewakan. Tim nya juga sangat membantu dalam proses desain."
+  },
+  {
+    "name": "Dewi Lestari",
+    "company": "Yayasan Bina Prestasi",
+    "rating": 4,
+    "quote": "Cetak sertifikat di sini hasilnya rapi dan elegan. Hanya saja waktu pengerjaan sedikit meleset dari estimasi awal."
+  },
+  {
+    "name": "Joko Susilo",
+    "company": "Warung Makan Padang Jaya",
+    "rating": 5,
+    "quote": "Menu dan flyer promosi dicetak dengan warna yang vibrant dan sesuai mock-up. Pelayanan CS ramah."
+  },
+  {
+    "name": "Rina Kartika",
+    "company": "Butik Mode Terbaru",
+    "rating": 5,
+    "quote": "Cepat tanggap dan hasil cetakan label baju serta hang tag-nya premium. Akan langganan terus!"
+  },
+  {
+    "name": "Faisal Akbar",
+    "company": "PT Global Solusi Digital",
+    "rating": 4,
+    "quote": "Untuk cetak company profile hasilnya baik. Ada sedikit perbedaan warna di sampel pertama, tapi langsung diperbaiki cepat."
+  },
+  {
+    "name": "Maria Simanjuntak",
+    "company": "Klinik Sehat Selalu",
+    "rating": 5,
+    "quote": "Cetak medical record dan kop surat. Kertas berkualitas bagus, tinta tidak luntur. Top!"
+  },
+  {
+    "name": "Taufik Hidayat",
+    "company": "Pengusaha Individu (Startup)",
+    "rating": 5,
+    "quote": "Sangat terbantu dengan opsi cetak satuan yang tersedia. Kualitasnya tetap terjaga meskipun order sedikit."
+  },
+  {
+    "name": "Indah Permata",
+    "company": "Coffee Shop Kopi Senja",
+    "rating": 5,
+    "quote": "Desain stiker kemasan saya dibuat persis seperti yang saya mau. Hasil cetak jernih dan lemnya kuat."
+  },
+  {
+    "name": "Hendrik Wijaya",
+    "company": "Distributor Alat Tulis Kantor",
+    "rating": 4,
+    "quote": "Pelayanan cepat dan harga wholesale sangat menarik. Pengiriman ke luar kota aman dan terbungkus rapi."
+  },
+  {
+    "name": "Lia Amelia",
+    "company": "Event Organizer 'Pesta Kreasi'",
+    "rating": 5,
+    "quote": "Spanduk dan backdrop untuk acara dicetak dengan resolusi tinggi. Waktu pengerjaan sangat bisa diandalkan, bahkan saat deadline ketat."
+  },
+  {
+    "name": "Bambang Irawan",
+    "company": "Percetakan Kecil 'Express Print'",
+    "rating": 4,
+    "quote": "Saya sebagai agen cetak merasa terbantu dengan harga reseller yang kompetitif. Meskipun kadang harus antri lama."
+  },
+  {
+    "name": "Putri Ramadhani",
+    "company": "UMKM Keripik Pedas",
+    "rating": 5,
+    "quote": "Packaging makanan hasil cetaknya tidak mudah luntur saat terkena minyak. Kualitas food-grade terjamin."
+  },
+  {
+    "name": "Yoga Pratama",
+    "company": "Akademi Bahasa Asing",
+    "rating": 5,
+    "quote": "Mencetak modul dan buku ajar dalam jumlah besar. Penjilidan kuat dan kertasnya nyaman untuk menulis."
+  },
+  {
+    "name": "Citra Kirana",
+    "company": "Personal Blogger/Penulis",
+    "rating": 5,
+    "quote": "Saya mencetak photobook pribadi di sini. Hasilnya jauh lebih bagus dari ekspektasi saya, warna fotonya hidup."
+  },
+  {
+    "name": "Eko Sulistyo",
+    "company": "Kontraktor Bangunan PT Cipta Karya",
+    "rating": 4,
+    "quote": "Pencetakan gambar kerja (blueprint) jelas dan presisi. Ada sedikit kendala di komunikasi awal, tapi tim follow-up dengan baik."
+  },
+  {
+    "name": "Nadia Salsabila",
+    "company": "Toko Souvenir Unik",
+    "rating": 5,
+    "quote": "Mencetak kartu ucapan dan label hadiah dengan hasil yang artistik. Bahan kertasnya berkualitas tinggi."
+  },
+  {
+    "name": "Doni Saputra",
+    "company": "Kedai Minuman 'Teh Tarik Manja'",
+    "rating": 5,
+    "quote": "Cetak cup sealing dan stopper dengan hasil memuaskan. Tinta aman untuk makanan/minuman dan tidak berbau."
+  },
+  {
+    "name": "Vina Oktaviani",
+    "company": "Sekolah Dasar Harapan Bangsa",
+    "rating": 5,
+    "quote": "Setiap tahun mencetak rapor dan buku kegiatan siswa di sini. Error sangat minim dan hasilnya profesional."
+  },
+  {
+    "name": "Hadi Kusuma",
+    "company": "Percetakan 'Digital Copy Center'",
+    "rating": 4,
+    "quote": "Mesin cetak yang digunakan sangat canggih dan hasil cetakan cepat. Sayangnya, lokasi parkir agak sulit."
+  },
+  {
+    "name": "Ani Mulyani",
+    "company": "Fashion Desainer",
+    "rating": 5,
+    "quote": "Cetak pola dan lookbook kualitas premium. Sangat cocok untuk kebutuhan presentasi desain yang detail."
+  },
+  {
+    "name": "Suryaatmaja",
+    "company": "Developer Game Studio 'Pixel Play'",
+    "rating": 5,
+    "quote": "Cetak merchandise (poster, kartu pos) untuk event. Hasil cetak tajam, warna solid dan tidak pudar."
+  }
+]
