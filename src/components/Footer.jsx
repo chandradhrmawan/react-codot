@@ -154,7 +154,8 @@ const Footer = () => {
                   />
                 </svg>
                 <span className="text-sm">
-                  Jl. Lurus Gg. 3 No.12 10, RT.8/RW.6, Kb. Bawang, Kec. Tj. Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14320
+                  Jl. Lurus Gg. 3 No.12 10, RT.8/RW.6, Kb. Bawang, Kec. Tj.
+                  Priok, Jkt Utara, Daerah Khusus Ibukota Jakarta 14320
                 </span>
               </li>
               <li className="flex items-center">
@@ -187,7 +188,7 @@ const Footer = () => {
                     d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"
                   />
                 </svg>
-                <span className="text-sm">+62 812-3456-7890</span>
+                <span className="text-sm">08567827236</span>
               </li>
             </ul>
           </div>
